@@ -2,8 +2,8 @@
     "name": "vitormarini/send-mail",
     "type": "library",
     "description": "API para geração e envio dos emails.",
-    "keywords": ["nfse", "sped", "nfephp"],
-    "homepage": "https://github.com/nfephp-org/sped-mail",
+    "keywords": ["nfse", "email", "nfephp"],
+    "homepage": "https://github.com/vitormarini/send-mail",
     "license": ["GPL-3.0+","LGPL-3.0+", "MIT"],
     "authors": [
         {
