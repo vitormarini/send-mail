@@ -1,5 +1,5 @@
 {
-    "name": "send-mail",
+    "name": "vitormarini/send-mail",
     "type": "library",
     "description": "API para geração e envio dos emails.",
     "keywords": ["nfse", "sped", "nfephp"],
