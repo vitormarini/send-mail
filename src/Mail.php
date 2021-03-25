@@ -1,13 +1,13 @@
 <?php
 
-namespace NFePHP\Mail;
+namespace VitorMarini\Mail;
 
 /**
  * Class for sending emails related to SPED services
  *
  * @category  library
- * @package   NFePHP\Mail\Mail
- * @copyright NFePHP Copyright (c) 2008-2019
+ * @package   VitorMarini\Mail\Mail
+ * @copyright VitorMarini Copyright (c) 2008-2019
  * @license   http://www.gnu.org/licenses/lgpl.txt LGPLv3+
  * @license   https://opensource.org/licenses/MIT MIT
  * @license   http://www.gnu.org/licenses/gpl.txt GPLv3+
@@ -15,11 +15,11 @@ namespace NFePHP\Mail;
  * @link      http://github.com/nfephp-org/sped-mail for the canonical source repository
  */
 
-use NFePHP\Mail\Base;
+use VitorMarini\Mail\Base;
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
 use Html2Text\Html2Text;
-use NFePHP\Common\Certificate;
+use VitorMarini\Common\Certificate;
 
 class Mail extends Base
 {
