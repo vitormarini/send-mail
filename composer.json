@@ -31,12 +31,12 @@
     },
     "autoload": {
         "psr-4": {
-          "vitormarini\\Mail\\": "src/"
+          "VitorMarini\\Mail\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "vitormarini\\Mail\\Tests\\": "tests/"
+            "VitorMarini\\Mail\\Tests\\": "tests/"
         }
     },
     "scripts": {
