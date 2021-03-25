@@ -11,6 +11,10 @@
             "email": "vhmarini@gmail.com",
             "homepage": "https://github.com/vitormarini",
             "role": "Developer"
+        },
+        {
+            "name": "Projeto Comunitário",
+            "homepage": "https://github.com/vitormarini"
         }
     ],
     "require": {
@@ -34,5 +38,17 @@
         "psr-4": {
             "NFePHP\\Mail\\Tests\\": "tests/"
         }
-    }
+    },
+    "scripts": {
+        "test": "phpunit",
+        "phpcbf": "vendor/bin/phpcbf --standard=psr2 src/ ",
+        "phpcs": "vendor/bin/phpcs --standard=psr2 src/ ",
+        "phpstan": "vendor/bin/phpstan analyse src/ --level 7"
+    },
+    "extra": {
+        "branch-alias": {
+            "v1.0": "1.0-dev"
+        }
+    },
+    "minimum-stability": "stable"
 }
