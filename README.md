@@ -1,4 +1,4 @@
-# send-mail
+# send-mail - API
 EMISSOR DE E-MAILS
 
 
