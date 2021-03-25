@@ -1,6 +1,6 @@
 <?php
 
-namespace NFePHP\Mail;
+namespace VitorMarini\Mail;
 
 class Base
 {
