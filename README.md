@@ -4,7 +4,7 @@ EMISSOR DE E-MAILS
 
 Envio de e-mails sobre documentos eletrônicos, contendo e anexando XML e/ou PDF do documento a ser enviado, ou mesmo trabalhando de forma independente para envios de e-mails, back-log de registros sigilosos para armazenagem em hospedagens e etc..
 
-Essa API tem por intúito facilitar a usabilidade e envio de e-mails, sendo comunitária, de forma gratúita e simples.
+Essa API tem por intúito facilitar a usabilidade e envio de e-mails, sendo comunitária, de forma gratuita e simples.
 
 Esta parte da API se destina a prover essa facilidade, caso se deseje.
 
