@@ -8,20 +8,6 @@ Essa API tem por intúito facilitar a usabilidade e envio de e-mails, sendo comu
 
 Esta parte da API se destina a prover essa facilidade, caso se deseje.
 
-[![Join the chat at https://github.com/vitormarini/send-mail]]
-
-[![Build Status][ico-travis]][link-travis]
-[![Coverage Status][ico-scrutinizer]][link-scrutinizer]
-[![Quality Score][ico-code-quality]][link-code-quality]
-[![Latest Stable Version][ico-stable]][link-github-releases]
-[![Latest Version on Packagist][ico-version]][link-packagist]
-[![License][ico-license]][link-packagist]
-[![Total Downloads][ico-downloads]][link-downloads]
-
-[![Issues][ico-issues]][link-issues]
-[![Forks][ico-forks]][link-forks]
-[![Stars][ico-stars]][link-stars]
-
 
 # Como instalar :
 
