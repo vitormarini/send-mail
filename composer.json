@@ -47,7 +47,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "0.1.*-dev"
+            "v1.0": "1.0-dev"
         }
     },
     "minimum-stability": "stable"
