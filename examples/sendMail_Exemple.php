@@ -1,6 +1,6 @@
 <?php
 require_once "{$_SERVER['DOCUMENT_ROOT']}/gestao/vendor/autoload.php";
-use NFePHP\Mail\Mail;
+use VitorMarini\Mail\Mail;
 
 
 #Parâmetros do envio
