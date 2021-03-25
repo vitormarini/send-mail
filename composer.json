@@ -31,12 +31,12 @@
     },
     "autoload": {
         "psr-4": {
-          "NFePHP\\Mail\\": "src/"
+          "vitormarini\\Mail\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "NFePHP\\Mail\\Tests\\": "tests/"
+            "vitormarini\\Mail\\Tests\\": "tests/"
         }
     },
     "scripts": {
